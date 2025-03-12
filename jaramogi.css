@@ -1,0 +1,54 @@
+
+.ba{
+    float:left ;
+position: relative;}
+ .bu{float: right;
+position: relative;}
+
+
+h2{
+ text-align: center;
+color: red;
+background-color: yellow;
+
+height: 30px;
+width: 40%;
+align-items: center;
+margin-left: 400px;
+margin-right: 50px;}
+.hist{width: 60%;
+height: 800px;
+border: 2px solid black;
+margin-left: auto;
+margin-right: auto;
+background-image: repeating-linear-gradient(gray, white, green);
+}
+.left{
+    float: right;
+}
+.right{float: left;
+}
+.read{text-align: center;}
+.ten{
+    column-count: 2;
+    display: grid;
+    text-align: justify;
+}
+.red{
+    color: red;
+}
+h3{
+    color: darkblue;
+    text-align: center;
+}
+
+.father{
+    position: absolute;
+    bottom: 20px;
+    left: 12px;
+}
+
+.rao{position: absolute;
+bottom: 1px;
+right: 8px;}
+
