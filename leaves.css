@@ -1,0 +1,27 @@
+.full{
+    height: 700px;
+    width: 70%;
+    background-image: url(back.jpg);
+    border: solid 5px red;
+}
+.paka{
+    display: flex;
+    /* align-items: flex-start; */
+    flex-direction: row;
+     position: absolute;  
+    bottom: 150px;
+    left: 250px;
+    align-content: flex-end;
+
+}
+.ballow{
+    position: absolute;
+    left: 200px;
+    bottom: 150px;
+
+}
+.cats{height: 200px;
+width: 100px;}
+.com{
+    display: inline;
+}
